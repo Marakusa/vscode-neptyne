@@ -1,10 +1,10 @@
 {
     "name": "vscode-neptyne",
-    "displayName": "Neptyne VS Code",
+    "displayName": "Neptyne - VS Code",
     "description": "Neptyne for Visual Studio Code",
     "icon": "icons/icon128.png",
     "author": "Markus Kannisto",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "Marakusa",
     "repository": "https://github.com/Marakusa/vscode-neptyne",
     "bugs": "https://github.com/Marakusa/vscode-neptyne/issues",
