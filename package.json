@@ -1,12 +1,12 @@
 {
-    "name": "neptyne-code",
+    "name": "vscode-neptyne",
     "displayName": "Neptyne",
     "description": "Neptyne is a simple programming language",
     "icon": "icons/icon128.png",
     "author": "Markus Kannisto",
     "version": "0.0.1",
     "publisher": "marakusa",
-    "bugs": "https://github.com/marakusa/neptyne-code/issues",
+    "bugs": "https://github.com/marakusa/vscode-neptyne/issues",
     "engines": {
         "vscode": "^1.65.0"
     },
