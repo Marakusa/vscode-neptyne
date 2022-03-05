@@ -1,0 +1,33 @@
+{
+    "name": "neptyne-code",
+    "displayName": "Neptyne",
+    "description": "Neptyne is a simple programming language",
+    "icon": "icons/icon128.png",
+    "author": "Markus Kannisto",
+    "version": "0.0.1",
+    "publisher": "marakusa",
+    "bugs": "https://github.com/marakusa/neptyne-code/issues",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "neptyne",
+            "aliases": ["Neptyne", "neptyne"],
+            "extensions": [".npt",".nptp"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "neptyne",
+            "scopeName": "source.neptyne",
+            "path": "./syntaxes/neptyne.tmLanguage.json"
+        }],
+        "snippets": [{
+            "language": "neptyne",
+            "path": "./snippets/neptyne.json"
+        }]
+    }
+}

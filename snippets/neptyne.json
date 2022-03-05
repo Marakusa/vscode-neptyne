@@ -1,0 +1,65 @@
+{
+	"main": {
+		"prefix": ["main"],
+		"body": [
+			"void main: {",
+			"\t$0",
+			"}"
+		],
+		"description": "Main function"
+	},
+	"function": {
+		"prefix": ["function"],
+		"body": [
+			"${1:void} ${2:name}${3:($4)}: {",
+			"\t$0",
+			"}"
+		],
+		"description": "Empty function"
+	},
+	"void": {
+		"prefix": ["void"],
+		"body": [
+			"void $1($2): {",
+			"\t$0",
+			"}"
+		],
+		"description": "Empty void function"
+	},
+	"if": {
+		"prefix": ["if"],
+		"body": [
+			"if $1: {",
+			"\t$0",
+			"}"
+		],
+		"description": "Empty if statement"
+	},
+	"else if": {
+		"prefix": ["else if"],
+		"body": [
+			"else if $1: {",
+			"\t$0",
+			"}"
+		],
+		"description": "Empty else if statement"
+	},
+	"else": {
+		"prefix": ["else"],
+		"body": [
+			"else: {",
+			"\t$0",
+			"}"
+		],
+		"description": "Empty else statement"
+	},
+	"constructor": {
+		"prefix": "ctor",
+		"body": [
+			"${1:${TM_FILENAME_BASE}}($2): {",
+			"\t$0",
+			"}"
+		],
+		"description": "Constructor"
+	}
+}
