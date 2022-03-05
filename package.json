@@ -5,8 +5,9 @@
     "icon": "icons/icon128.png",
     "author": "Markus Kannisto",
     "version": "0.0.1",
-    "publisher": "marakusa",
-    "bugs": "https://github.com/marakusa/vscode-neptyne/issues",
+    "publisher": "Marakusa",
+    "repository": "https://github.com/Marakusa/vscode-neptyne",
+    "bugs": "https://github.com/Marakusa/vscode-neptyne/issues",
     "engines": {
         "vscode": "^1.65.0"
     },
