@@ -4,7 +4,7 @@
 
 This extension enables syntax highlight for Neptyne scripts.
 
-\!\[feature X\]\(images/feature-x.png\)
+![image](https://user-images.githubusercontent.com/29477753/156886907-cccb7de6-b372-4595-b57b-65259469af28.png)
 
 ## Known Issues
 
