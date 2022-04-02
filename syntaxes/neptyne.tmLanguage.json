@@ -31,7 +31,7 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.neptyne",
-				"match": "\\b(if|while|for|return|bring|clib|csta|const|readonly|sizeof)\\b"
+				"match": "\\b(if|while|for|return|bring|clib|csta|const|readonly|sizeof|fluid|ptr|dur|ditch)\\b"
 			}]
 		},
 		"strings": {

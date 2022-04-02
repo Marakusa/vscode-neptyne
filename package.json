@@ -4,7 +4,7 @@
     "description": "Neptyne for Visual Studio Code",
     "icon": "icons/icon128.png",
     "author": "Markus Kannisto",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "Marakusa",
     "repository": "https://github.com/Marakusa/vscode-neptyne",
     "bugs": "https://github.com/Marakusa/vscode-neptyne/issues",
